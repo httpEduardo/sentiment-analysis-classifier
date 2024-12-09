@@ -40,8 +40,8 @@ Abaixo segue um exemplo completo de um projeto Python relacionado a IA (Aprendiz
 Este exemplo simula um cenário real: você terá um conjunto de dados simples de texto positivo e negativo, treinará um classificador usando scikit-learn e depois utilizará o modelo para classificar o sentimento de uma frase inserida pelo usuário no main.py.
 
 Estrutura do Projeto
-css
-Copiar código
+
+
 project/
   ├─ README.md
   ├─ requirements.txt
@@ -52,9 +52,8 @@ project/
   └─ data/
        ├─ positive.txt
        └─ negative.txt
-Conteúdo do README.md
-markdown
-Copiar código
+
+
 # Análise de Sentimento de Texto usando IA
 
 ## Descrição
